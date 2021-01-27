@@ -1,0 +1,10 @@
+c:\users\burak\documents\visual studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\Release\StreadChatSpammer.mainForm.resources
+c:\users\burak\documents\visual studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\Release\StreadChatSpammer.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\Release\StreadChatSpammer.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\bin\Release\StreadChatSpammer.exe
+c:\users\burak\documents\visual studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\bin\Release\StreadChatSpammer.pdb
+c:\users\burak\documents\visual studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\bin\Release\XanderUI.dll
+c:\users\burak\documents\visual studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\Release\StreadChatSpammer.exe
+c:\users\burak\documents\visual studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\Release\StreadChatSpammer.pdb
+c:\users\burak\documents\visual studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\Release\StreadChatSpammer.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\Release\StreadChatSpammer.Info.resources

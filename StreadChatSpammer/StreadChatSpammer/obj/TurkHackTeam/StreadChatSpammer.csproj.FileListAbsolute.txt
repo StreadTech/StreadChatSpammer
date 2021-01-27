@@ -1,0 +1,8 @@
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\bin\TurkHackTeam\StreadChatSpammer.exe
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\bin\TurkHackTeam\XanderUI.dll
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\TurkHackTeam\StreadChatSpammer.Info_Light.resources
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\TurkHackTeam\StreadChatSpammer.Info.resources
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\TurkHackTeam\StreadChatSpammer.mainForm.resources
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\TurkHackTeam\StreadChatSpammer.Properties.Resources.resources
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\TurkHackTeam\StreadChatSpammer.csproj.GenerateResource.Cache
+C:\Users\Burak\Documents\Visual Studio 2013\Projects\StreadChatSpammer\StreadChatSpammer\obj\TurkHackTeam\StreadChatSpammer.exe

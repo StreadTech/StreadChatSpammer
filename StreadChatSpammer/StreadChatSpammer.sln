@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreadChatSpammer", "StreadChatSpammer\StreadChatSpammer.csproj", "{3421589E-002A-4DEB-8609-912FBFD3E4C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		TurkHackTeam|Any CPU = TurkHackTeam|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3421589E-002A-4DEB-8609-912FBFD3E4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3421589E-002A-4DEB-8609-912FBFD3E4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3421589E-002A-4DEB-8609-912FBFD3E4C1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3421589E-002A-4DEB-8609-912FBFD3E4C1}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3421589E-002A-4DEB-8609-912FBFD3E4C1}.TurkHackTeam|Any CPU.ActiveCfg = TurkHackTeam|Any CPU
+		{3421589E-002A-4DEB-8609-912FBFD3E4C1}.TurkHackTeam|Any CPU.Build.0 = TurkHackTeam|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
